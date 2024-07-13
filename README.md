@@ -2,6 +2,12 @@
 
 This project contains multiple scripts designed to handle various tasks related to data splitting, model fine-tuning, prediction, evaluation, and visualization. Below is an overview of each script and its functionality.
 
+## YouTube Tutorial
+
+For a comprehensive guide on how to set up and use this project, watch our tutorial on YouTube:
+
+[![Watch the video](https://img.youtube.com/vi/Szez2BFZ4bA/0.jpg)](https://www.youtube.com/watch?v=Szez2BFZ4bA)
+
 ## Directory Structure
 ```
 
