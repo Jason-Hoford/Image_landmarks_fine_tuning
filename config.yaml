@@ -1,0 +1,11 @@
+directories:
+  model_dir: "models"
+  data_dir: "data"
+  text_file: "cords.txt"
+  train_data_dir: "data/training"
+  eval_data_dir: "data/evaluation"
+  results_dir: "results"
+  images_dir: "result/images"
+  results_text_dir: "results/prediction"
+  evaluation_text_dir: "results/evaluation"
+

@@ -1,0 +1,9 @@
+tk
+matplotlib
+numpy<2
+opencv-python
+scikit-learn
+tensorboard
+torch
+torchvision
+PyYAML
