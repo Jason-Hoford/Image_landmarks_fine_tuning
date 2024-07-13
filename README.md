@@ -6,7 +6,7 @@ This project contains multiple scripts designed to handle various tasks related 
 
 For a comprehensive guide on how to set up and use this project, watch our tutorial on YouTube:
 
-[![Watch the video](https://img.youtube.com/vi/Szez2BFZ4bA/0.jpg)](https://www.youtube.com/watch?v=Szez2BFZ4bA)
+[![Watch the video](https://img.youtube.com/vi/xW-G_ubGe08/0.jpg)](https://www.youtube.com/watch?v=xW-G_ubGe08)
 
 ## Directory Structure
 ```
